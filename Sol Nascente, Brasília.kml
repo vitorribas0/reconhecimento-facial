@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sol Nascente, Brasília</name>
+	<gx:CascadingStyle kml:id="__managed_style_1CF35A04013406399A70">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D8C24B1613406399A6F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0B8859D9193406399A70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1CF35A04013406399A70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0B8859D9193406399A70">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_296236EC54340636BFC7">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FCCEEF7C5340636BFC7">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0CF51583CE340636BFC7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FCCEEF7C5340636BFC7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_296236EC54340636BFC7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="07107272C7340636BFAC">
+		<name>Rocinha</name>
+		<gx:mid>/m/048jvp</gx:mid>
+		<gx:fid>0x9bd427adbbdaeb:0x4cf95af6dc0096b9</gx:fid>
+		<LookAt>
+			<longitude>-43.24843904999999</longitude>
+			<latitude>-22.9895954</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2141.414127421547</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF51583CE340636BFC7</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-43.2480087,-22.987941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="098E82E6473406399A6F">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-43.2495950903163</longitude>
+			<latitude>-22.98932022569505</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3650.191409288701</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D8C24B1613406399A6F</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-43.25623496944842,-22.98935417137213,0 -43.25490205884098,-22.98987685145369,0 -43.25413687482602,-22.99028588928125,0 -43.2533705884961,-22.99083126015093,0 -43.25245728567552,-22.99071766169262,0 -43.2517908613743,-22.99264912761135,0 -43.25332130723629,-22.9935125895255,0 -43.2518896179178,-22.9936262255018,0 -43.25068011095743,-22.99580768484219,0 -43.24739705438328,-22.99492145731654,0 -43.24589132088816,-22.9940579483418,0 -43.24443496695116,-22.99323987899209,0 -43.24416349500041,-22.99208098569505,0 -43.2438426140396,-22.99176285162834,0 -43.24250966876118,-22.99146740420422,0 -43.23994249220254,-22.99076286178048,0 -43.24048583722883,-22.98655906613147,0 -43.24157193050602,-22.98671820051661,0 -43.24159662545056,-22.98649096823695,0 -43.24223841567122,-22.98626377241898,0 -43.24250996212308,-22.98562753301702,0 -43.24349730650923,-22.98546852191519,0 -43.24544730020275,-22.98437788255539,0 -43.24737254975638,-22.9848551263629,0 -43.24826112974486,-22.98440067382389,0 -43.24900160754817,-22.98440068049797,0 -43.25026041766954,-22.98392348992546,0 -43.25193882740844,-22.98351444631917,0 -43.25403685195065,-22.98342349034941,0 -43.25556721478073,-22.98428691832776,0 -43.25588811384626,-22.98487771308627,0 -43.2572458635095,-22.98844520134232,0 -43.25623496944842,-22.98935417137213,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

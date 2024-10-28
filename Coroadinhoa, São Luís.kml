@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Coroadinhoa, São Luís</name>
+	<gx:CascadingStyle kml:id="__managed_style_22C56CC5043406B16EDA">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1EBB1F9AB63406B16EDA">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05941393B53406B16EDA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1EBB1F9AB63406B16EDA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_22C56CC5043406B16EDA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_265E8411E73406AD19D4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_15DE340E9F3406AD19D4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_093553BCBD3406AD19D4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15DE340E9F3406AD19D4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_265E8411E73406AD19D4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00230A8B9A3406AD19AA">
+		<name>Vila Conceição (Coroadinho)</name>
+		<gx:mid>/g/1ymv19_fh</gx:mid>
+		<gx:fid>0x7f68561af5e62ff:0x848f40390a2ed7b9</gx:fid>
+		<LookAt>
+			<longitude>-44.26979595</longitude>
+			<latitude>-2.56710715</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5738.312530036071</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_093553BCBD3406AD19D4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-44.2632988,-2.5672256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00B3529C163406B16ED9">
+		<name> Coroadinhoa, São Luís</name>
+		<LookAt>
+			<longitude>-44.27449327175627</longitude>
+			<latitude>-2.567899210437307</latitude>
+			<altitude>-1.414648398423424e-09</altitude>
+			<heading>3.868904059510647e-12</heading>
+			<tilt>0.3768171464448069</tilt>
+			<gx:fovy>34.99999967860663</gx:fovy>
+			<range>6629.052614536736</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05941393B53406B16EDA</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-44.26737971849334,-2.557342903828948,0 -44.26833154854355,-2.558211514012481,0 -44.26853958792829,-2.560072190048837,0 -44.26841664816904,-2.561642808514701,0 -44.26870745333635,-2.563832484982659,0 -44.27197247968996,-2.564575928183366,0 -44.27209623821095,-2.563832514694673,0 -44.27275753860568,-2.564204240080621,0 -44.27246867486881,-2.565897250407322,0 -44.27333639066219,-2.566310085237496,0 -44.27374934235498,-2.564328143323061,0 -44.27498904992585,-2.564699824942077,0 -44.2761049847593,-2.563254223083296,0 -44.27767488216532,-2.565071467382666,0 -44.27953399119694,-2.56569080540856,0 -44.2806082684225,-2.565690796588695,0 -44.27978060060461,-2.56800229376775,0 -44.27767388355878,-2.568084833398812,0 -44.27577384516053,-2.56738327336931,0 -44.27449325798474,-2.569033835094135,0 -44.27354320566143,-2.568291156437986,0 -44.27222143528257,-2.56837368178623,0 -44.27056890551162,-2.567713426554893,0 -44.26734529247847,-2.565855929293763,0 -44.26635365622585,-2.565855917921616,0 -44.26643752361529,-2.567218148645847,0 -44.26524167778917,-2.569363855713145,0 -44.26507732799759,-2.570188862302205,0 -44.26821841487889,-2.57361103789646,0 -44.26846751238533,-2.575712560128705,0 -44.26809697690771,-2.577030684468534,0 -44.26673579679237,-2.577813163698675,0 -44.26541491398249,-2.577401382174027,0 -44.26483622389495,-2.576495286332083,0 -44.25955050724051,-2.574723832694481,0 -44.26049745529242,-2.57307525400507,0 -44.25987310361496,-2.569941359599508,0 -44.26114963454328,-2.567341907893254,0 -44.25999311020249,-2.567506980891085,0 -44.25899930923539,-2.566186072407026,0 -44.26023804741825,-2.565649377241148,0 -44.26094138723403,-2.566227394984495,0 -44.26197094191946,-2.563791049798713,0 -44.26387121639967,-2.563047524715649,0 -44.26391148086442,-2.562138548849644,0 -44.26147427096157,-2.563295331762869,0 -44.26267078158283,-2.561683952846342,0 -44.26370320967023,-2.560816061000651,0 -44.26304003290872,-2.559493157405343,0 -44.26737971849334,-2.557342903828948,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

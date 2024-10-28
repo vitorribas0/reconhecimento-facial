@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paraisópolis sp</name>
+	<gx:CascadingStyle kml:id="__managed_style_2D5882D31A3406A18F80">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C624F11563406A18F80">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0144D53B6D34069E589F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_112C32F16534069E589E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_061208BBEE3406A18F80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C624F11563406A18F80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D5882D31A3406A18F80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_030CF596CF34069E589E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_112C32F16534069E589E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0144D53B6D34069E589F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="06C4934EDA34069E5886">
+		<name>Paraisópolis</name>
+		<gx:mid>/m/0ggbf8t</gx:mid>
+		<gx:fid>0x94ce56cb18a74cbf:0x695ae4254133c58d</gx:fid>
+		<LookAt>
+			<longitude>-46.72573375</longitude>
+			<latitude>-23.61669445</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2129.33246359026</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_030CF596CF34069E589E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-46.7260923,-23.6156289,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EEE6986953406A18F80">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-46.72578616484208</longitude>
+			<latitude>-23.61677792172563</latitude>
+			<altitude>0</altitude>
+			<heading>2.522588217756803</heading>
+			<tilt>3.377565496760002</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2494.458913186023</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_061208BBEE3406A18F80</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-46.72796148481852,-23.61243117942441,0 -46.72810771912764,-23.61306105249762,0 -46.72803428552788,-23.61376095311127,0 -46.72820555002765,-23.61376984597389,0 -46.72870977830046,-23.61355955796574,0 -46.72894666761077,-23.61384582032917,0 -46.72927093469445,-23.61392220304571,0 -46.7294602765899,-23.61437527373383,0 -46.72971527437167,-23.61406169540444,0 -46.72976471700983,-23.6135453641438,0 -46.73019166393868,-23.61359105264096,0 -46.73029586604754,-23.61410693900779,0 -46.73040082291795,-23.61484180994177,0 -46.73081231983873,-23.61535680263094,0 -46.73030377669466,-23.6164062870916,0 -46.73037513682089,-23.61729767110864,0 -46.7307358137402,-23.61792227978177,0 -46.73097483874283,-23.61837586691962,0 -46.73138460118287,-23.61890768240501,0 -46.73174312079105,-23.61887638797321,0 -46.73182853096121,-23.6196897725431,0 -46.72964329163636,-23.62048756522859,0 -46.72925063630613,-23.62073784443634,0 -46.72778240771127,-23.62034680890898,0 -46.72764583748184,-23.62070657679823,0 -46.72674101001537,-23.62075350797375,0 -46.72655321819357,-23.6210350659344,0 -46.72657029454219,-23.6214730455345,0 -46.72561424379006,-23.62137919373467,0 -46.72540937574313,-23.62116020376505,0 -46.72510207773615,-23.62087864561294,0 -46.72488014378794,-23.62020603803774,0 -46.72397533661547,-23.61937701032173,0 -46.72397535976411,-23.61793796118971,0 -46.72255839389475,-23.61806307626927,0 -46.7223023395758,-23.61720277161883,0 -46.72136338659286,-23.61718710655515,0 -46.72095368581284,-23.61646756975339,0 -46.72023666560703,-23.61640497799032,0 -46.72004885564971,-23.61681166083099,0 -46.71962205032392,-23.61684292829635,0 -46.71974161451882,-23.61548208458006,0 -46.71982703129406,-23.61390224592002,0 -46.72059525449035,-23.61410562697564,0 -46.72097083507267,-23.61396486407231,0 -46.72117569911313,-23.61377716788318,0 -46.7214488419182,-23.61387102985811,0 -46.72197808324161,-23.61255711573697,0 -46.7230535760175,-23.61252586299682,0 -46.7232584366172,-23.61197839294455,0 -46.72394128304521,-23.6120253332314,0 -46.7242485611552,-23.61241639107946,0 -46.72723600774327,-23.61205662204913,0 -46.72796148481852,-23.61243117942441,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

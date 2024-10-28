@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cidade de Deus, Rio de Janeiro</name>
+	<gx:CascadingStyle kml:id="__managed_style_03FEDC5C433406BE47B9">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1AE0E1B6333406BE47B8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05A00764E13406BE47B8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AE0E1B6333406BE47B8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_03FEDC5C433406BE47B9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2FCE2BAF8E3406BCBCF6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1D25DF74743406BCBCF6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09F16279BA3406BCBCF6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D25DF74743406BCBCF6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FCE2BAF8E3406BCBCF6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00D7FC55283406BCBCD6">
+		<name>Cidade de Deus</name>
+		<gx:mid>/m/09k575h</gx:mid>
+		<gx:fid>0x9bd9af39047e5d:0x16f21484cb8b722f</gx:fid>
+		<LookAt>
+			<longitude>-43.36265155</longitude>
+			<latitude>-22.9476091</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2142.212727408801</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09F16279BA3406BCBCF6</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-43.3697151,-22.9465337,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00B98E7F093406BE47B7">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-43.36279623102423</longitude>
+			<latitude>-22.94734002349973</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4622.664923412481</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05A00764E13406BE47B8</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-43.36251499108911,-22.94352710151216,0 -43.36338996414024,-22.94473572901936,0 -43.36460868274372,-22.94493715614264,0 -43.36592112930847,-22.9437860573707,0 -43.36735860648982,-22.94433277841055,0 -43.36873349752597,-22.94171399949559,0 -43.37157719859173,-22.94165627112855,0 -43.37088989467105,-22.94568513893069,0 -43.3723901211342,-22.94850521094883,0 -43.37035880835042,-22.9487355280493,0 -43.36851498744077,-22.94813128443361,0 -43.36620256071104,-22.95123924773329,0 -43.36432752525833,-22.95201625000989,0 -43.36213996211357,-22.95204503149443,0 -43.35973359704352,-22.95342631934708,0 -43.35726470221434,-22.95371405125698,0 -43.35320196362165,-22.95296570552967,0 -43.35332708813605,-22.95169949651454,0 -43.35357726065696,-22.94980020367533,0 -43.35579612706073,-22.94948375337232,0 -43.35635857105925,-22.95080751788103,0 -43.35748368685109,-22.94913848780595,0 -43.35870247980718,-22.94839032405274,0 -43.3603274964707,-22.94778604344076,0 -43.35860880496512,-22.94591551786791,0 -43.35917134312348,-22.94395870645111,0 -43.36145252734803,-22.94369975657475,0 -43.36089006836183,-22.94154146648969,0 -43.36204626558231,-22.94159903385389,0 -43.36251499108911,-22.94352710151216,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

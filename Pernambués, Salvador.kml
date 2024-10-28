@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pernambués, Salvador</name>
+	<gx:CascadingStyle kml:id="__managed_style_1731330D013406A5941E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A511A936B3406A5941E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1731330D013406A5941E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_201CADF48B3406A5941E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2D893764E33406A383E0">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_201CADF48B3406A5941E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10AE50207C3406A383E0">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_03FD65077E3406A383E0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10AE50207C3406A383E0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D893764E33406A383E0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="076516467F3406A383CB">
+		<name>Pernambués</name>
+		<gx:mid>/g/119pg9_sb</gx:mid>
+		<gx:fid>0x7161ade3274424d:0xe119cd257663dac3</gx:fid>
+		<LookAt>
+			<longitude>-38.46469294999999</longitude>
+			<latitude>-12.9699684</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5549.13148835642</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03FD65077E3406A383E0</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-38.4603389,-12.9712185,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054080AB893406A5941D">
+		<name>Pernambués, Salvador</name>
+		<LookAt>
+			<longitude>-38.4655948483484</longitude>
+			<latitude>-12.97074674335949</latitude>
+			<altitude>0</altitude>
+			<heading>0.3580903491463532</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6066.580592545083</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A511A936B3406A5941E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-38.4586563126062,-12.95915618481939,0 -38.46009018115416,-12.96308402728386,0 -38.46691077353594,-12.96353730048296,0 -38.46857717186661,-12.96417930139801,0 -38.46772459790377,-12.96455697538396,0 -38.46822839672578,-12.96519898843875,0 -38.47063112438498,-12.96512340263148,0 -38.47361521617637,-12.9660674438937,0 -38.47714200855481,-12.96799333955936,0 -38.47849853259486,-12.96912625037406,0 -38.48028137809766,-12.96935274175927,0 -38.47880867626408,-12.97086348316097,0 -38.47780106339526,-12.97218534632022,0 -38.4769872265739,-12.97324282986622,0 -38.47667720140425,-12.97377156631066,0 -38.47659978111419,-12.97531998410668,0 -38.47613477290941,-12.97660405404186,0 -38.47539846111911,-12.97732165665896,0 -38.47416117088307,-12.97819417602946,0 -38.47203042630186,-12.97846505731259,0 -38.46963109945364,-12.97956762149532,0 -38.46657351485069,-12.98086101923908,0 -38.46614465000626,-12.98006921366235,0 -38.46389536113492,-12.97962286167354,0 -38.46144761368711,-12.9777042096393,0 -38.46016412079184,-12.97627298973351,0 -38.46070513412726,-12.97578039106493,0 -38.4598092161557,-12.97540233638669,0 -38.4565583354623,-12.97580569743734,0 -38.45388391971659,-12.97578415473044,0 -38.45205635130916,-12.97485104726732,0 -38.45018760463673,-12.97354049460264,0 -38.44959569749308,-12.97188230160453,0 -38.4488554585921,-12.97128248625725,0 -38.44903749982409,-12.96943077913328,0 -38.45053919024311,-12.9678732726054,0 -38.45095709304118,-12.96654889672648,0 -38.45191780841424,-12.96525902103893,0 -38.45432594931807,-12.96607539708875,0 -38.45532729943282,-12.96508741133109,0 -38.45534721370495,-12.9621414253702,0 -38.45607773909303,-12.96123059082274,0 -38.45715728097535,-12.96035541246928,0 -38.4586563126062,-12.95915618481939,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>complexo da maré</name>
+	<gx:CascadingStyle kml:id="__managed_style_2AB07303483404C6E8B3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_108720E29E3404C6E8B3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_26347D69683404C48ECC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A01E558123404C48ECC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01953CE4053404C6E8B3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_108720E29E3404C6E8B3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2AB07303483404C6E8B3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_024393DFFA3404C48ECC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A01E558123404C48ECC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26347D69683404C48ECC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C6D395AE53404C48EBD">
+		<name>Maré</name>
+		<gx:mid>/m/0yp35pp</gx:mid>
+		<gx:fid>0x997951a84436fd:0x727cb5fe9c3ed915</gx:fid>
+		<LookAt>
+			<longitude>-43.24448285</longitude>
+			<latitude>-22.85803015</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10710.71505197599</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024393DFFA3404C48ECC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-43.2431352,-22.8518205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01A16062F63404C6E8B2">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-43.23726942419103</longitude>
+			<latitude>-22.85993501268635</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>12111.35094800682</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01953CE4053404C6E8B3</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-43.25265034350797,-22.8408962505022,0 -43.25019604816845,-22.84376180306816,0 -43.24749629446678,-22.84677803342553,0 -43.24741459005913,-22.84881378377065,0 -43.24741478656515,-22.85213124625728,0 -43.24798774926488,-22.85552402210944,0 -43.24782440221472,-22.85951999062922,0 -43.24757928479573,-22.86396833188297,0 -43.24733419617882,-22.86856750123098,0 -43.24430666067293,-22.87022635750424,0 -43.24422503587602,-22.87339305640552,0 -43.24299772032422,-22.87610744996785,0 -43.23972450067365,-22.87995293974872,0 -43.23800593697632,-22.87867112356151,0 -43.23563277507758,-22.87557971577532,0 -43.23440536798927,-22.87278996202019,0 -43.23276894323829,-22.86864310297252,0 -43.23309635947589,-22.8654764894328,0 -43.23481472400748,-22.86336545765814,0 -43.23661484804588,-22.86132981367874,0 -43.23726942419104,-22.85869099987259,0 -43.23849669957191,-22.85499664453539,0 -43.24037842681235,-22.84994509736392,0 -43.24275098379528,-22.84625054614324,0 -43.24291454346096,-22.84376237437573,0 -43.24414167023666,-22.84119869304073,0 -43.24553247499244,-22.84067078920704,0 -43.2483958809648,-22.83916249071637,0 -43.25158657152284,-22.83803106205592,0 -43.25477726813762,-22.8364470753205,0 -43.256004604152,-22.83780417225854,0 -43.25265034350797,-22.8408962505022,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

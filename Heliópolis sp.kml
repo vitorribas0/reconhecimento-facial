@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Heliópolis sp</name>
+	<gx:CascadingStyle kml:id="__managed_style_20FA2DC61134069CACFF">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_178EB484F234069CACFF">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_06FA9D1F0734069CACFF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_178EB484F234069CACFF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20FA2DC61134069CACFF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2BB5F84CAF34069A7B2F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_127B27DB1E34069A7B2F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FC21AA17D34069A7B2F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_127B27DB1E34069A7B2F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2BB5F84CAF34069A7B2F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0CCE84094834069A7AFC">
+		<name>Cidade Nova Heliópolis</name>
+		<gx:mid>/m/0cczw8</gx:mid>
+		<gx:fid>0x94ce5c80e1cf4d9b:0x82dc0eb8038f7d3c</gx:fid>
+		<LookAt>
+			<longitude>-46.58990845</longitude>
+			<latitude>-23.6113036</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5109.612559132034</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC21AA17D34069A7B2F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-46.5927939,-23.6109411,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06FF5BD55034069CACFE">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-46.58990845</longitude>
+			<latitude>-23.6113036</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4858.099135103813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06FA9D1F0734069CACFF</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-46.60030483840417,-23.60348538528672,0 -46.59990882786211,-23.60466492777042,0 -46.59891868651464,-23.60517914746116,0 -46.59865467955183,-23.60599573555203,0 -46.59822565682072,-23.60696354349119,0 -46.59756557393685,-23.6075381997189,0 -46.59674048223773,-23.60853625529336,0 -46.59449623530642,-23.61192350080081,0 -46.59175691196916,-23.62045203928204,0 -46.59043658117326,-23.620361313144,0 -46.59020552612916,-23.62105692299001,0 -46.58990844999998,-23.6211476552126,0 -46.58974340794664,-23.61984717080165,0 -46.58924828756459,-23.61987741185025,0 -46.58772994754042,-23.618667667488,0 -46.58700378932556,-23.61830474103555,0 -46.58624461704568,-23.61821400122176,0 -46.58621163462562,-23.61754865160373,0 -46.58403313538727,-23.61751836349276,0 -46.58360398491848,-23.61827443230385,0 -46.58363691835368,-23.619393445118,0 -46.5818874362912,-23.61963534780332,0 -46.58159043629031,-23.61872802609732,0 -46.58093025927841,-23.6187280037451,0 -46.58053434758722,-23.61667143463977,0 -46.58036946066312,-23.61494756952403,0 -46.57994050739627,-23.61322370046518,0 -46.57924744937078,-23.61204418532398,0 -46.57974263361062,-23.61110669074541,0 -46.57961064935424,-23.61053206823104,0 -46.57937972072433,-23.60889893562338,0 -46.57934680208243,-23.60759848303729,0 -46.58000697763968,-23.60675172803824,0 -46.58046911642996,-23.60569325116309,0 -46.58112925671934,-23.60505819135859,0 -46.58188843232015,-23.60363680134317,0 -46.58340669706283,-23.6018827581745,0 -46.58535392461317,-23.6026692017957,0 -46.58525490162292,-23.60321358353349,0 -46.58977643189008,-23.60484681773413,0 -46.59093156757535,-23.60333465134999,0 -46.59409996956058,-23.60466528359006,0 -46.59495810221517,-23.60542132756862,0 -46.59703733552178,-23.60354613106817,0 -46.59848948492093,-23.60170114236669,0 -46.60030483840417,-23.60348538528672,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

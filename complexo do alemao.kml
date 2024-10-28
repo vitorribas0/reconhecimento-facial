@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>complexo do alemao</name>
+	<gx:CascadingStyle kml:id="__managed_style_25CE807FB83404A730BE">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10BC25F09F3404A730BE">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B7B83C15C3404A05F00">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/none_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02E59481873404A730BE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10BC25F09F3404A730BE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25CE807FB83404A730BE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1080EBA7943404A05F00">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/none_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01750717743404A05F00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1080EBA7943404A05F00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B7B83C15C3404A05F00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B691A900D34049FBEA8">
+		<name>Complexo do Alemão</name>
+		<gx:mid>/m/03cl6t9</gx:mid>
+		<gx:fid>0x997c7352b8f01f:0xdc43e9597c8e45ad</gx:fid>
+		<LookAt>
+			<longitude>-43.27164354999999</longitude>
+			<latitude>-22.8611061</latitude>
+			<altitude>93.96348543193457</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4118.451685483915</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01750717743404A05F00</styleUrl>
+		<Point>
+			<altitudeMode>absolute</altitudeMode>
+			<coordinates>-43.2721368,-22.8613084,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F63E08023404A730BD">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-43.27164354999994</longitude>
+			<latitude>-22.86110609999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3674.07815125611</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02E59481873404A730BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-43.28171727110846,-22.85372401974121,0 -43.2816319762612,-22.85553344128889,0 -43.28265648776768,-22.85574313681212,0 -43.28333952528248,-22.8562413145232,0 -43.2839087651909,-22.85715907215823,0 -43.28575867786862,-22.85760467955349,0 -43.28439283808239,-22.86043690707521,0 -43.28507596338139,-22.86127598687446,0 -43.28573074053659,-22.86292798884605,0 -43.28570259008521,-22.86544542837767,0 -43.28129117927941,-22.86570789580642,0 -43.28057974700414,-22.86649461439702,0 -43.27995357783823,-22.86589150926885,0 -43.28009598613421,-22.8672026564379,0 -43.27659550342195,-22.86848767548553,0 -43.27542868996593,-22.86930061442012,0 -43.27417643176061,-22.8683041441622,0 -43.27588391465594,-22.86628496080616,0 -43.27540006710629,-22.86502628768901,0 -43.27710750045357,-22.86311201173685,0 -43.27582685029255,-22.86232537804481,0 -43.27198505807976,-22.86728146098219,0 -43.26987909102503,-22.86725523242589,0 -43.26797226116314,-22.86901216041655,0 -43.26672005635098,-22.86848767595772,0 -43.26526867685034,-22.86736005239448,0 -43.26435806342055,-22.86597021264082,0 -43.25826742676166,-22.86670419793806,0 -43.25738527000405,-22.86549786253852,0 -43.25812555115144,-22.86319026349802,0 -43.2589508637697,-22.86366233687495,0 -43.25994715166603,-22.86187924567944,0 -43.26259382867081,-22.86258741786244,0 -43.2650697928126,-22.86166974597534,0 -43.26768792512141,-22.86195827325087,0 -43.26717575737205,-22.85962448188279,0 -43.26384621641464,-22.85917856039738,0 -43.26196804714843,-22.8577886414531,0 -43.26293571641312,-22.85590066454456,0 -43.26609444526346,-22.85739554109459,0 -43.26643595906874,-22.85645154279954,0 -43.26737500875858,-22.85778892591033,0 -43.26939547400143,-22.85645163182226,0 -43.26868407009557,-22.8554551566374,0 -43.26933857706555,-22.85498316142388,0 -43.27047682862955,-22.85660898170045,0 -43.27147281085074,-22.85571742018509,0 -43.27107441949508,-22.85506185133359,0 -43.27204193870476,-22.85424894319178,0 -43.27343630749694,-22.85516672999734,0 -43.2752005927295,-22.85369820234945,0 -43.27625349145252,-22.85403906421869,0 -43.27670879016912,-22.853619473137,0 -43.27753403877465,-22.85372432480994,0 -43.27895687361237,-22.85317354658588,0 -43.28171727110846,-22.85372401974121,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

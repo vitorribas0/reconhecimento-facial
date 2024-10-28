@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Jacarezinho, Rio de Janeiro</name>
+	<gx:CascadingStyle kml:id="__managed_style_01D2E9A14E3406B8477E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F8C653E023406B8477D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_079B372BCC3406B8477D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F8C653E023406B8477D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_01D2E9A14E3406B8477E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00EDDDE3373406B8477B">
+		<name>Jacarezinho, Rio de Janeiro</name>
+		<LookAt>
+			<longitude>-43.2578629602612</longitude>
+			<latitude>-22.88794185044094</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3395.74338127068</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_079B372BCC3406B8477D</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-43.26490738859913,-22.88932631302601,0 -43.26472384877921,-22.88989707932319,0 -43.26364541372388,-22.89091179801248,0 -43.26323242412655,-22.89188421698979,0 -43.26389794101439,-22.89287775615433,0 -43.26341611957176,-22.89401930781173,0 -43.26180984028856,-22.89450554706744,0 -43.26160329266064,-22.8939347756944,0 -43.26203923860435,-22.89285665460359,0 -43.26027227525623,-22.88974921557488,0 -43.25829893546315,-22.89093301711779,0 -43.25605025025322,-22.88896707970142,0 -43.2538933798003,-22.88774098050511,0 -43.25352624442516,-22.88784666598684,0 -43.2539162676741,-22.88962235487664,0 -43.25295247234288,-22.89097523811977,0 -43.25191992902514,-22.88998166725542,0 -43.25194295797944,-22.88824825804661,0 -43.25104804522405,-22.88843847585506,0 -43.24964822344261,-22.88970677107863,0 -43.24893684111566,-22.89002382935158,0 -43.24955651602059,-22.88850182593558,0 -43.24990077027918,-22.88759285438653,0 -43.2516906464987,-22.88598635950398,0 -43.25568321318831,-22.88148380612741,0 -43.2636222872502,-22.88697991713065,0 -43.26490738859913,-22.88932631302601,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
